@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Search2</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="app_label">label</string>
-    <string name="search_hint">hint</string>
+    <string name="app_name">MyActivity</string>
+    <string name="hint1">Enter UTA Search Query Here</string>
+    <string name="hint2">Tag Your Query</string>
 
 </resources>
